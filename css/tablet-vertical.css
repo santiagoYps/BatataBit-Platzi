@@ -1,0 +1,9 @@
+.main-tables-container {
+    width: 100%;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.plans-container__slider {
+    justify-content: center;
+}

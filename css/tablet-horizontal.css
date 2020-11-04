@@ -1,0 +1,6 @@
+.product-cards__content {
+    display: flex;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    width: 900px;
+}
